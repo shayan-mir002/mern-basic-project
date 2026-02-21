@@ -96,4 +96,4 @@ The backend Express server exposes the following endpoints at `http://localhost:
 
 ---
 
-*Project developed and formatted for testing professional MERN setups.*
+
