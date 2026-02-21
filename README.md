@@ -3,7 +3,7 @@
 A modern, full-stack Student Management System built using the MERN stack (MongoDB, Express, React, Node.js). 
 This application features a beautiful glassmorphism UI and allows you to add, view, and delete student records seamlessly.
 
-![Modern UI Preview](frontend/public/favicon.ico) *(Replace with actual screenshot if available)*
+
 
 ## Features
 
